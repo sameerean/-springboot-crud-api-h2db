@@ -11,5 +11,5 @@ This application demonstrates a Spring Boot Web-app that performs CRUD operation
  
 ### URL for end-points
 
- - http://localhost:8080/user
- - http://localhost:8080/user/u12234
+ - [http://localhost:8080/user](http://localhost:8080/user)
+ - [http://localhost:8080/user/u12234]
